@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Sarvam TTS Pro",
+    "description": "The name of the extension."
+  },
+  "extensionDesc": {
+    "message": "Download and preview high-quality TTS audio from Sarvam AI with a tech-minimalist dashboard.",
+    "description": "A description of what the extension does."
+  }
+}

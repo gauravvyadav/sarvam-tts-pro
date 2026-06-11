@@ -88,9 +88,21 @@ const Sidebar: React.FC = () => {
 
   const speakers = [
     { value: 'shubh', label: 'Shubh', gender: 'Male', tags: ['Conversational', 'Friendly'], icon: '👨' },
-    { value: 'shreya', label: 'Shreya', gender: 'Female', tags: ['News', 'Authoritative'], icon: '👩' },
+    { value: 'priya', label: 'Priya', gender: 'Female', tags: ['Conversational', 'Clear'], icon: '👩' },
+    { value: 'suhani', label: 'Suhani', gender: 'Female', tags: ['Conversational', 'Warm'], icon: '👩' },
+    { value: 'ashutosh', label: 'Ashutosh', gender: 'Male', tags: ['News', 'Professional'], icon: '👨' },
+    { value: 'ritu', label: 'Ritu', gender: 'Female', tags: ['Conversational', 'Bright'], icon: '👩' },
+    { value: 'amit', label: 'Amit', gender: 'Male', tags: ['Conversational', 'Natural'], icon: '👨' },
+    { value: 'sumit', label: 'Sumit', gender: 'Male', tags: ['Conversational', 'Expressive'], icon: '👨' },
+    { value: 'pooja', label: 'Pooja', gender: 'Female', tags: ['Conversational', 'Sweet'], icon: '👩' },
     { value: 'manan', label: 'Manan', gender: 'Male', tags: ['Conversational', 'Consistent'], icon: '👨' },
+    { value: 'simran', label: 'Simran', gender: 'Female', tags: ['Conversational', 'Dynamic'], icon: '👩' },
+    { value: 'rahul', label: 'Rahul', gender: 'Male', tags: ['Conversational', 'Friendly'], icon: '👨' },
+    { value: 'kavya', label: 'Kavya', gender: 'Female', tags: ['Conversational', 'Gentle'], icon: '👩' },
+    { value: 'ratan', label: 'Ratan', gender: 'Male', tags: ['Conversational', 'Mature'], icon: '👨' },
     { value: 'ishita', label: 'Ishita', gender: 'Female', tags: ['Entertainment', 'Dynamic'], icon: '👩' },
+    { value: 'shreya', label: 'Shreya', gender: 'Female', tags: ['News', 'Authoritative'], icon: '👩' },
+    { value: 'shruti', label: 'Shruti', gender: 'Female', tags: ['Conversational', 'Clear'], icon: '👩' },
   ];
 
   const models = [

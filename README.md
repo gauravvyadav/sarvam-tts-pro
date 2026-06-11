@@ -13,11 +13,23 @@ A premium, tech-minimalist browser extension for **Sarvam AI** that enhances the
 
 - **Direct MP3 Downloads**: Convert Sarvam's TTS API responses directly into downloadable MP3 files.
 - **Instant Preview**: Built-in audio player to listen to generated speech before downloading.
-- **Premium Multi-Selects**: Custom, sleek dropdowns for selecting Speakers and Models with gender icons.
-- **Language Support**: Seamlessly toggle between 11 Indian languages (Hindi, English, Bengali, Tamil, etc.).
+- **Premium Multi-Selects**: Custom, sleek dropdowns for selecting from 16 different Speakers (with gender icons) and advanced Models.
+- **Language Support**: Seamlessly toggle between 11 Indian languages (Hindi, English, Bengali, Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, Punjabi, and Odia).
 - **Fine-tuned Controls**: Real-time adjustment of **Pace** and **Temperature** for perfect speech synthesis.
 - **Smart Shortcut**: One-click from the browser toolbar opens the Sarvam TTS playground and auto-launches the sidebar.
 - **Tech-Minimalist Design**: A beautiful, light-themed sidebar that integrates seamlessly into the Sarvam AI dashboard.
+
+## 🎙️ Supported Models, Languages & Speakers
+
+### **Voice Models**
+- **Bulbul v3 Beta** (`bulbul:v3-beta`)
+
+### **Supported Languages (11)**
+- Hindi (`hi-IN`), English (`en-IN`), Bengali (`bn-IN`), Tamil (`ta-IN`), Telugu (`te-IN`), Kannada (`kn-IN`), Malayalam (`ml-IN`), Marathi (`mr-IN`), Gujarati (`gu-IN`), Punjabi (`pa-IN`), and Odia (`or-IN`).
+
+### **Supported Speakers (16)**
+- **Male (7)**: Shubh, Ashutosh, Amit, Sumit, Manan, Rahul, Ratan
+- **Female (9)**: Priya, Suhani, Ritu, Pooja, Simran, Kavya, Ishita, Shreya, Shruti
 
 ## 🛠️ Tech Stack
 

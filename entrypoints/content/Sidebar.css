@@ -39,19 +39,26 @@
 .collapse-toggle {
   position: absolute;
   left: -40px;
-  top: 20px;
+  bottom: 20px;
   width: 40px;
   height: 40px;
-  background: var(--bg-main);
-  border: 1px solid var(--border-color);
+  background: var(--accent-indigo);
+  border: 1px solid var(--accent-indigo);
   border-right: none;
   border-radius: 8px 0 0 8px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--text-main);
-  box-shadow: -4px 4px 10px rgba(0, 0, 0, 0.02);
+  color: #ffffff;
+  box-shadow: -4px 4px 15px rgba(13, 27, 42, 0.15);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.collapse-toggle:hover {
+  background: #1d2d44;
+  border-color: #1d2d44;
+  color: #2dd4bf;
 }
 
 .header {

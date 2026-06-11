@@ -6,7 +6,7 @@ export default defineConfig({
     default_locale: 'en',
     name: '__MSG_extensionName__',
     description: '__MSG_extensionDesc__',
-    version: '0.1.0',
+    version: '0.1.1',
     permissions: ['storage', 'tabs'],
     action: {
       default_title: 'Open Sarvam TTS Pro',

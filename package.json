@@ -2,7 +2,7 @@
   "name": "sarvam-tts-pro",
   "description": "Download and preview high-quality TTS audio from Sarvam AI with a tech-minimalist dashboard.",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
